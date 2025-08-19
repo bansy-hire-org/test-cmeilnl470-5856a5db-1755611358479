@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.csproj.user
+/packages
+/TestResults
+_ReSharper.*
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+*.swp
+*.log
